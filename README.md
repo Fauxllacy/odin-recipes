@@ -19,6 +19,8 @@ Table of Contents:
 The following website created only allows users the ability to point and click on the relative links correlated with each recipe title. 
 Each recipe title will take users into a new page with a PNG of the desired recipe and a small witty description followed by a list of ingredients and instructions necessary to successfully create each dish.
 
+![homepage](https://user-images.githubusercontent.com/106291908/174514408-fe7c9642-9782-4c35-be15-90767c0cf78a.png)
+  
 ## Credits
 
 The Ingredients and Instructions list were used by the following websites in order for each page of the website.
